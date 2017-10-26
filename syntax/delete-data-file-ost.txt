@@ -1,0 +1,28 @@
+delete-data-file-ost.txt
+Created Fri Oct  3 08:05:28 AKDT 2014
+Copyright (C) 2014 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+
+At GCI Network Services, OSS on marcilr1 win 7 pro virtual machine,
+after a restore to external 2TB Seagate, from the internal 2TB
+WD that was toasted I got a classic error in Outlook 2010:
+
+"Outlook is using an old copy of your Outlook data file (.ost), Exit Outlook,
+delete the file, and restart Outlook.  A new file will be automatically
+created the next time you initiate a send/receive."
+
+To find data file in Outlook:
+1. Click File tab
+2. Click Account Settings > Account Settings...
+3. Click Data Files tab
+
+The Outlook Data File (.ost) location appears in the Location column for the
+Exchange account.
+
+In my case this was:
+  C:\Users\rmarcil.GCI\AppData\Local\Microsoft\Outlook\rmarcil@gci.com.ost
+
+Deleted rmarcil@gci.com.ost, actually moved to the desktop to convince myself
+it would be recreated, then restarted Outlook.  On restart the Data File (.ost)
+was recreated.
