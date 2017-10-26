@@ -1,0 +1,31 @@
+search-folder.txt
+Created Wed Jan  8 13:11:29 AKST 2014
+Copyright (C) 2014 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Create a custom search folder in outlook 2010 to search all messages.
+
+
+1. In Mail, on the Folder tab, in the New group, click New Search Folder.
+   Keyboard shortcut To create a Search Folder, click CTRL+SHIFT+P.
+
+2. From the Select a Search Folder popup
+select Create a custom Search Folder
+
+click OK
+
+3. At Custom Search Folder popup
+Name: All
+
+Under Mail from these folders will be included in the Search folder:
+
+click Browse...
+
+4. At Select Folder(s) popup select all the folders listed.
+click OK
+click OK
+
+Links
+=====
+Find messages or items with a Search Folder
+http://office.microsoft.com/en-us/outlook-help/find-messages-or-items-with-a-search-folder-HA010354954.aspx
