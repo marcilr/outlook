@@ -1,0 +1,65 @@
+INSTALL
+Created Fri Nov 11 08:11:13 AKST 2011
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Outlook 2010 is installed with office pro 2010 plus x64:
+  SW_DVD5_Office_Professional_Plus_2010_64Bit_English_MLF_X16-52545.ISO
+
+Did this on the new ajoite win 7 pro sp1 ajoite workstaion.
+
+
+INSTALL
+=======
+On the first run of Outlook 2010 it runs Microsoft Outlook 2010 Startup.
+
+1. At Microsoft Outlook 2010 Startup 
+click Next
+
+2. At Account Configuration E-mail Accounts;
+
+You can configure Outlook to connect to Internet E-mail, Microsoft Exchange, or
+other E-mail server.  Would you like to configure an E-mmail account?
+
+x Yes
+  No
+
+click Next
+
+3. At Auto Account Setup:
+  E-mail Account   <== Auto config for remarcil@uaa.alaska.edu fails
+
+  Text Messaging (SMS)
+
+x Manually configure server settings or additional server types
+
+click Next
+
+4. At Choose Service
+  Internet E-mail
+    Connecto to POP or IMAP sever to send and receive e-mail messages.
+
+x Microsoft Exchange or compatible service
+    Connect and access e-mail messages, calendar, contacts, faxes and voice mail messages.
+  
+  Text Messaging (SMS)
+    Connecto a mobile messaging service.
+
+click Next 
+   
+5. At Server Settings
+
+   Server: ANC-EXCA02.apps.ad.alaska.edu   <== Populated when trying owa.uaa.alaska.edu 
+           x Use Cached Exchange Mode
+
+User Name: remarcil@uaa.alaska.edu
+
+click Next
+
+6. At Windows Security window enter user/pass:
+
+user: UA\remarcil   <==  NOTE: UAAACTDIR\remarcil fails.
+
+click Next
+
+TODO: Get a handle on domains.
