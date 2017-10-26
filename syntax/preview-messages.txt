@@ -1,0 +1,13 @@
+preview-messages.txt
+Created Mon Mar 10 11:11:47 AKDT 2014
+Copyright (C) 2014 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+To preview messages in Outloook 2010:
+
+View tab > Reading Pane
+
+Set to:
+o Right
+o Bottom
+o Off
