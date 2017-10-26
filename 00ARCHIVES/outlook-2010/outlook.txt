@@ -1,0 +1,102 @@
+outlook.txt
+Created Tue Sep 15 11:23:50 AKDT 2009
+by Raymond E. Marcil
+
+
+
+Outlook under winXP virtual has best scheduling calendar.
+  ITS 120B - The big conference room.
+  ITS 120J - Small Conference Room or war room.
+  Add to "Resources" when scheduling.
+
+
+Mon Nov 28 09:00:13 AKST 2011
+=============================
+Test Outlook 2010 on ajoite win 7 pro x64 workstation with:
+
+UA\remarcil & convoluted usual.
+
+
+
+Mon May 16 10:25:09 AKDT 2011
+=============================
+This configuration failed kobellite (no domain).  Worked on blossite
+on ua.ad.alaska.edu domain with:
+
+User name: ua.ad.alaska.edu\remarcil
+ Password: new convoluted usual
+
+
+Configuring outlook on new kobellite windows 7 x64 virtual machine
+for easy access.
+
+1. START > All Programs > Microsoft Office > Microsoft Outlook 2010
+
+2. Microsoft Outlook 2010 Startup
+Welcome to the Microsoft Outlook 2010 Startup Wizard, which will guide you
+through the process of configuring Microsoft Outlook 2010.
+
+click Next
+
+3. Account Configuration
+E-mail Accounts
+
+You can configure Outlook to connect to Internet E-mail, Microsoft Exchange, or
+other E-mail server.  Would you like to configure an E-mail account?
+
+x Yes
+  No
+
+click Next
+
+4. Account Configuration
+Auto Account Setup
+
+Click Next to connect to the mail server and automatically configure your 
+account setttings.
+
+x E-mail Account
+       Your Name: Raymond Marcil
+  E-mail Address: remarcil@uaa.alaska.edu
+        Password: new convoluted usual
+ Retype Password: new convoluted usual
+
+<unchecked> Text Messaging (SMS)
+
+<unchecked> Manually configure server setttings or additional server types
+
+click Next
+
+8. This configuration failed on kobellite (no domain).
+Worked on blossite on ua.ad.alaska.edu domain with:
+
+User name: ua.ad.alaska.edu\remarcil    <== On blossite, on ua.ad.alaska.edu domain.
+ Password: new convoluted usual
+
+click OK
+
+9. Add New Account
+Congratulations!
+
+You have successfully entered all the information required to setup your account.
+To close the wizard, click Finish.
+
+click Finish
+
+10. Create Outlook 2010 shortcut on desktop.
+
+
+
+Wed Mar  2 08:25:48 AKST 2011
+=============================
+shift-f9, send/receive in outlook yields an error:
+
+Outlook Send/Receive Progress
+
+Errors
+Task 'remarcil@uaa.alaska.edu' reported error (0x80040119): 
+'Unknown Error 0x80040119'
+
+Will log ticket for Joe Watson.
+
+NOTE: There is a typo in username!
