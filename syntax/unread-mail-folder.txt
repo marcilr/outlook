@@ -1,0 +1,33 @@
+unread-mail-folder.txt
+Created Thu Oct 26 10:37:17 AKDT 2017
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Restore the Unread Mail folder
+
+
+Applies To: Outlook 2016 Outlook 2013 Outlook 2010 Outlook 2007
+
+The Unread Mail folder is a default Outlook Search Folder.
+If it isn't visible in your Folders list, you can add it.
+
+2016, 2013, 2010   2007
+
+1. In Mail, click the Folder tab.
+
+2. In the New group, click New Search Folder.
+   TIP: You can also open the New Search Folder dialog box
+   by pressing CTRL+SHIFT+P.
+
+3. In the Reading Mail section, click Unread mail.
+
+4. Click OK.
+
+--support.office.com/
+
+
+Links
+=====
+Restore the Unread Mail folder
+Applies To: Outlook 2016 Outlook 2013 Outlook 2010 Outlook 2007
+https://support.office.com/en-us/article/Restore-the-Unread-Mail-folder-A51A806F-9B83-4FE8-87D2-F1D7C1F55815
