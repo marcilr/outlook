@@ -1,0 +1,30 @@
+README
+Created Tue Feb  4 14:56:07 AKST 2014
+Copyright (C) 2014 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Filelist
+========
+delete-data-file-ost.txt
+  At GCI Network Services, OSS on marcilr1 win 7 pro virtual machine,
+  after a restore to external 2TB Seagate, from the internal 2TB
+  WD that was toasted I got a classic error in Outlook 2010:
+
+  "Outlook is using an old copy of your Outlook data file (.ost), Exit Outlook,
+  delete the file, and restart Outlook.  A new file will be automatically
+  created the next time you initiate a send/receive."
+
+  On GCI Network Services, OSS rmarcil1 win 7 pro virtual machine
+  under Outlook 2010 it was:
+    C:\Users\rmarcil.GCI\AppData\Local\Microsoft\Outlook\rmarcil@gci.com.ost
+
+preview-messages.txt
+  To preview messages in Outloook 2010:
+  View tab > Reading Pane
+  Set to:
+  o Right
+  o Bottom  
+  o Off
+
+search-folder.txt
+  Create a custom search folder in outlook 2010 to search all messages.
