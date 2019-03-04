@@ -11,5 +11,8 @@ Filelist
 pdf/
   Portable Document Format files
 
+manifest
+  Manifest file for use by resync script
+
 syntax/
   Syntax for outlook
