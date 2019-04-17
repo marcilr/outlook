@@ -1,0 +1,47 @@
+reading-pane.txt
+Created Wed Apr 17 07:33:15 AKDT 2019
+by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Use and configure the Reading Pane to preview messages
+
+Outlook for Office 365, Outlook 2019, Outlook 2016, Outlook 2013
+
+When you select a message in the message list, you can see the
+message in the Reading Pane and access many different types of
+file attachments.  You can customize how the Reading Pane works
+and appears, or you can turn it off.
+
+In addition to using the Reading Pane to help you quickly scan
+your messages, you can also preview the first few lines of
+messages in your message list, and you can break up long
+messages by splitting the message window.
+
+
+Turn on, turn off, or move the Reading Pane
+===========================================
+The Reading Pane is turned on by default. Do one of the
+following:
+
+o To turn off the Reading Pane   On the View tab, in the
+  Layout group, select Reading Pane, and then select Off.
+
+o To turn on or move the Reading Pane     On the View tab,
+  in the Layout group, select Reading Pane, and then select
+  Right or Bottom.
+
+
+Selecting Off closes the Reading Pane only for the folder
+you’re in. To turn off the Reading Pane quickly for
+multiple folders, on the View tab, select Change View > \
+Apply Current View to Other Mail Folders, and then choose
+folders in the Apply View dialog box.
+
+--support.office.com/en-ie/article/use-and-configure-the-reading-pane-to-preview-messages-2fd687ed-7fc4-4ae3-8eab-9f9b8c6d53f0
+
+
+Links
+=====
+Use and configure the Reading Pane to preview messages
+Outlook for Office 365, Outlook 2019, Outlook 2016, Outlook 2013
+https://support.office.com/en-ie/article/use-and-configure-the-reading-pane-to-preview-messages-2fd687ed-7fc4-4ae3-8eab-9f9b8c6d53f0
