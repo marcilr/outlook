@@ -1,0 +1,11 @@
+#.gitignore
+# Created Wed Aug 28 10:22:38 AKDT 2019
+# by Raymond E. Marcil <marcilr@gmail.com>
+#
+# Files for git to ignore.
+#
+.gitignore
+00ARCHIVES/
+hiri/
+pdf/
+syntax/
