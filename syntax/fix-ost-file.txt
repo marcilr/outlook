@@ -1,0 +1,70 @@
+fix-ost-file.txt
+Created Wed Aug 28 10:13:35 AKDT 2019
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Fix ost file (rename) for Outlook Office 365 
+
+
+Was having issues with Outlook Office 365 on Windows 10
+at State of Alaska OIT DNR.  Outlook refused to fetch
+new mail and the inbox had issues.
+
+The solution was to add .OLD to the ost file then let
+outlook rebuild it with the following procedure:
+
+Outlook data file:
+  Name:     ray.marcil@alaska.gov
+  Location: C:\Users\remarcil\AppData\Local\Microsoft\Outlook\
+            ray.marcil@alaska.gov -
+
+To access AppData:
+
+1. Open File Explorer/Windows Explorer
+2. Type %AppData% into the address bar and hit enter
+   Had: C:\Users\remarcil\%AppData%
+        This openeed the AppData\Roaming folder
+3. Navigate to the required folder (Roaming or Local)
+4. Search AppData for ray.marcil yields:
+
+ray.marcil@alaska.gov - Ray.ost
+C:\Users\remarcil\AppData\Local\Microsoft\Outlook
+
+5. Renamed "ray.marcil@alaska.gov - Ray.ost" to:
+"ray.marcil@alaska.gov - Ray.ost.OLD"
+
+i.   Got error:
+     "The action can't be completed because the file is open in Skype for Business.
+ii.  Exited Skype for Business window
+iii. Renamed "ray.marcil@alaska.gov - Ray.ost" to:
+     "ray.marcil@alaska.gov - Ray.ost.OLD"
+
+6. Launched Outlook Office 365
+i. Prompted to login with:
+   ray.marcil@alaska.gov
+ii. Login worked correctly
+   Retrieving mail box settings...
+   ...
+   Launched correctly with 16 items in inbox
+
+Outlook fixed!
+
+7. Launch Skype for Business - runs and opens correctly
+
+
+Procedure from:
+
+To permanently display all hidden folders on Windows 10 & 8:
+1. Open File Explorer/Windows Explorer
+2. Click View then select Options
+3. In the Folder Options window, choose View,
+   select Show hidden files, folders, and drives,
+   and then click OK
+
+--help.ableton.com/
+
+
+Links
+=====
+How to access hidden folders – Ableton
+https://help.ableton.com/hc/en-us/articles/209070509-How-to-access-hidden-folders
