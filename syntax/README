@@ -18,6 +18,9 @@ delete-data-file-ost.txt
   under Outlook 2010 it was:
     C:\Users\rmarcil.GCI\AppData\Local\Microsoft\Outlook\rmarcil@gci.com.ost
 
+fix-ost-file.txt
+  Fix ost file (rename) for Outlook Office 365
+
 preview-messages.txt
   To preview messages in Outloook 2010:
   View tab > Reading Pane
